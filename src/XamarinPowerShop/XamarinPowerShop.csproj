@@ -34,7 +34,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Page\RootPage.cs" />
     <Compile Include="ViewModel\ViewModel.cs" />
-    <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="Data\MockData.cs" />
+    <Compile Include="Model\TShirt.cs" />
+    <Compile Include="Page\OrderPage.cs" />
+    <Compile Include="ViewModel\OrderViewModel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.1.3.1.6296\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.1.3.1.6296\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
@@ -68,17 +71,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Images\" />
     <Folder Include="Page\" />
     <Folder Include="ViewModel\" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Images\csharp-aspahlt.png" />
-    <EmbeddedResource Include="Images\csharp-emerald.png" />
-    <EmbeddedResource Include="Images\csharp-river.png" />
-    <EmbeddedResource Include="Images\fsharp-aspahlt.png" />
-    <EmbeddedResource Include="Images\fsharp-emerald.png" />
-    <EmbeddedResource Include="Images\fsharp-river.png" />
+    <Folder Include="Data\" />
+    <Folder Include="Model\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XamarinPowerShop.Entities\XamarinPowerShop.Entities.csproj">

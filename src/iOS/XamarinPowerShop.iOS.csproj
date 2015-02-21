@@ -133,6 +133,18 @@
     <BundleResource Include="Resources\Icon-Small-40.png" />
     <BundleResource Include="Resources\Icon-Small-40%402x.png" />
     <BundleResource Include="Resources\Icon-Small-40%403x.png" />
+    <BundleResource Include="Resources\csharp-asphalt.png" />
+    <BundleResource Include="Resources\csharp-emerald.png" />
+    <BundleResource Include="Resources\csharp-river.png" />
+    <BundleResource Include="Resources\fsharp-asphalt.png" />
+    <BundleResource Include="Resources\fsharp-emerald.png" />
+    <BundleResource Include="Resources\fsharp-river.png" />
+    <BundleResource Include="Resources\csharp-asphalt%402x.png" />
+    <BundleResource Include="Resources\csharp-emerald%402x.png" />
+    <BundleResource Include="Resources\csharp-river%402x.png" />
+    <BundleResource Include="Resources\fsharp-asphalt%402x.png" />
+    <BundleResource Include="Resources\fsharp-emerald%402x.png" />
+    <BundleResource Include="Resources\fsharp-river%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

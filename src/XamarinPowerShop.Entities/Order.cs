@@ -12,6 +12,8 @@ namespace XamarinPowerShop.Entities
 		public bool IsMen { get; set; }
 		public string Size { get; set; }
 		public DateTime OrderDate { get; set; }
+		public DateTime TimeSlots { get; set; }
+		public int HourSlots { get; set; }
 	}
 }
 
