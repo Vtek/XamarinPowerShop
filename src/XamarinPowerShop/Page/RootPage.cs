@@ -1,6 +1,4 @@
-﻿using System;
-using Xamarin.Forms;
-using XamarinPowerShop.Entities;
+﻿using Xamarin.Forms;
 using System.Collections.Generic;
 
 namespace XamarinPowerShop
@@ -10,11 +8,17 @@ namespace XamarinPowerShop
 	/// </summary>
 	public sealed class RootPage : ContentPage
 	{
+		/// <summary>
+		/// Initializes a new instance of the <see cref="XamarinPowerShop.RootPage"/> class.
+		/// </summary>
 		public RootPage()
 		{
 			InitializeComponent();
 		}
 
+		/// <summary>
+		/// Initializes the component.
+		/// </summary>
 		void InitializeComponent()
 		{
 			var layout = new StackLayout
@@ -47,6 +51,12 @@ namespace XamarinPowerShop
 			Content = layout;
 		}
 
+		/// <summary>
+		/// Gets the table section.
+		/// </summary>
+		/// <returns>The table section.</returns>
+		/// <param name="title">Title.</param>
+		/// <param name="tshirts">Tshirts.</param>
 		TableSection GetTableSection(string title, List<TShirt> tshirts)
 		{
 			var fsharpSection = new TableSection();

@@ -1,5 +1,4 @@
-﻿using System;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
 namespace XamarinPowerShop
 {
@@ -32,6 +31,10 @@ namespace XamarinPowerShop
 			BindingContext = viewModel;
 		}
 
+		/// <summary>
+		/// Initializes the component.
+		/// </summary>
+		/// <param name="tshirt">Tshirt.</param>
 		void InitializeComponent(TShirt tshirt)
 		{
 			var layout = new StackLayout 

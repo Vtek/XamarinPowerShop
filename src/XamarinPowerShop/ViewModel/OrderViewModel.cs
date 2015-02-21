@@ -75,7 +75,11 @@ namespace XamarinPowerShop
 			}
 		}
 
-		private List<string> _sizes = new List<string> { "Small", "Medium", "Large", "X-Large" };
+		/// <summary>
+		/// Gets the sizes.
+		/// </summary>
+		/// <value>The sizes.</value>
+		List<string> _sizes = new List<string> { "Small", "Medium", "Large", "X-Large" };
 		public List<string> Sizes 
 		{
 			get

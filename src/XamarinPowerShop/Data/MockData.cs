@@ -1,10 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace XamarinPowerShop
 {
+	/// <summary>
+	/// Mock data.
+	/// </summary>
 	public static class MockData
 	{
+		/// <summary>
+		/// Gets the csharp t-shirt data.
+		/// </summary>
+		/// <returns>The csharp.</returns>
 		public static List<TShirt> GetCsharp()
 		{
 			return new List<TShirt> 
@@ -30,6 +36,10 @@ namespace XamarinPowerShop
 			};
 		}
 
+		/// <summary>
+		/// Gets the fsharp t-shirt data.
+		/// </summary>
+		/// <returns>The fsharp.</returns>
 		public static List<TShirt> GetFsharp()
 		{
 			return new List<TShirt> 

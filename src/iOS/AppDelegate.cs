@@ -15,6 +15,7 @@ namespace XamarinPowerShop.iOS
 		{
 			global::Xamarin.Forms.Forms.Init();
 
+			//Init Active directory azure library !
 			AdalInitializer.Initialize();
 
 			LoadApplication(new App());
