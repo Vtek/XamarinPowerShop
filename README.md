@@ -6,7 +6,7 @@ Xamarin &amp; PowerBI application sample
 
 ## Introduction
 
-XamarinPowerShop is just a little proof of concept of Xamarin PowerBI.Api.Client.PCL.
+XamarinPowerShop is just a little proof of concept base on Xamarin & PowerBI Api.
 The sample contains a T-Shirt shop application and all you need to push data in PowerBI for make your reports :)
 PowerBI.Api.Client.PCL is an alpha version, more informations : [HERE](https://github.com/Vtek/PowerBI.Api.Client/wiki/PCL)
 
