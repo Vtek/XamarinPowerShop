@@ -19,19 +19,19 @@ namespace XamarinPowerShop
 				{
 					Name = "C# River T-Shirt",
 					Reference = "C-R",
-					ImageFile = "csharp-river.png"
+					ImageFile = "csharpriver.png"
 				},
 				new TShirt
 				{
 					Name = "C# Emerald T-Shirt",
 					Reference = "C-E",
-					ImageFile = "csharp-emerald.png"
+					ImageFile = "csharpemerald.png"
 				},
 				new TShirt
 				{
 					Name = "C# Asphalt T-Shirt",
 					Reference = "C-A",
-					ImageFile = "csharp-asphalt.png"
+					ImageFile = "csharpasphalt.png"
 				}
 			};
 		}
@@ -48,19 +48,19 @@ namespace XamarinPowerShop
 				{
 					Name = "F# River T-Shirt",
 					Reference = "F-R",
-					ImageFile = "fsharp-river.png"
+					ImageFile = "fsharpriver.png"
 				},
 				new TShirt
 				{
 					Name = "F# Emerald T-Shirt",
 					Reference = "F-E",
-					ImageFile = "fsharp-emerald.png"
+					ImageFile = "fsharpemerald.png"
 				},
 				new TShirt
 				{
 					Name = "F# Asphalt T-Shirt",
 					Reference = "F-A",
-					ImageFile = "fsharp-asphalt.png"
+					ImageFile = "fsharpasphalt.png"
 				}
 			};
 		}
