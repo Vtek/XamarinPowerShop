@@ -22,16 +22,22 @@ PowerBI.Api.Client.PCL is an alpha version, more informations : [HERE](https://g
 ## Screenshot
 
 **iOS**
-Coming soon
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen1.png "iOS screenshot 1")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen2.png "iOS screenshot 2")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen3.png "iOS screenshot 3")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen4.png "iOS screenshot 4")
 
 **Android**
-Coming soon
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/Android-Screen1.png "Android screenshot 1")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/Android-Screen2.png "Android screenshot 2")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/Android-Screen3.png "Android screenshot 3")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/Android-Screen4.png "Android screenshot 4")
 
 **WP8**
 Coming soon
 
 **PowerBI Reports**
-![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/App-Tshirt-PowerBI.png "PowerBI T-Shirt shop screenshot")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/PowerBI.png "PowerBI T-Shirt shop screenshot")
 
 
 ## Licence
