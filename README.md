@@ -25,7 +25,7 @@ PowerBI.Api.Client.PCL is an alpha version, more informations : [HERE](https://g
 
 ![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen1.png "iOS screenshot 1")
 ![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen2.png "iOS screenshot 2")
-![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen5.png "iOS screenshot 5")
+![Alt text](http://sylvain.pontoreau.com/wp-content/uploads/2015/02/iOS-Screen6.png "iOS screenshot 6")
 
 **Android**
 
