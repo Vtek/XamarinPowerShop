@@ -14,7 +14,7 @@ namespace XamarinPowerShop
 		/// </summary>
 		public App()
 		{
-			PowerBIClient.Intialize(
+			PowerBIClient.Initialize(
 				new Api 
 				{
 					Url = "https://api.powerbi.com/beta/myorg/datasets"

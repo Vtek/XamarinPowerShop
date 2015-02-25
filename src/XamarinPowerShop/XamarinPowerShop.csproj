@@ -64,7 +64,7 @@
       <HintPath>..\..\packages\PowerBI.Api.Client.ADAL.PCL.1.0.1-alpha\lib\Microsoft.IdentityModel.Clients.ActiveDirectory.dll</HintPath>
     </Reference>
     <Reference Include="PowerBI.Api.Client.PCL">
-      <HintPath>..\..\packages\PowerBI.Api.Client.PCL.1.0.1-alpha\lib\PowerBI.Api.Client.PCL.dll</HintPath>
+      <HintPath>..\..\packages\PowerBI.Api.Client.PCL.1.0.2-alpha\lib\PowerBI.Api.Client.PCL.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
